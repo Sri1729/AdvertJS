@@ -1,0 +1,62 @@
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.info {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.plate {
+  position: relative;
+  height: 64px;
+  width: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.plateImg {
+  height: 48px;
+  width: 48px;
+  z-index: 1;
+}
+
+.quantity {
+  background: black;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 50%;
+  height: 24px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 1;
+  align-self: center;
+}
+
+.menuItem {
+  margin-bottom: 1px;
+  font-size: 0.7rem;
+}
+
+.price {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+.subtotal {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}

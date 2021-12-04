@@ -1,0 +1,65 @@
+.plate {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  z-index: 2;
+  top: -15px;
+}
+
+.content {
+  padding-top: 10px;
+  position: relative;
+  width: 100%;
+  z-index: 3;
+}
+
+.menuItem {
+  font-size: 0.75rem;
+  line-height: 20px;
+  margin: 0 0 16px 0;
+  padding: 0;
+}
+
+.price {
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: bold;
+  margin: 0 0 1px 0;
+  padding: 0;
+}
+
+.cartButton {
+  background: #6b00f5;
+  border: none;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  border-radius: 20px;
+  padding: 2px;
+  font-size: 0.75rem;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: -10px;
+}
+
+.inCart {
+  background: black;
+  border: none;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  border-radius: 20px;
+  padding: 2px;
+  font-size: 0.75rem;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: -10px;
+}

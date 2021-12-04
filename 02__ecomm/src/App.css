@@ -1,0 +1,14 @@
+.AppWrapper {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex: 1;
+  height: 100%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
