@@ -3,7 +3,7 @@ These Projects are done as part of AdvertJS challenge by (http://adventofjs.com)
 
 # 01__POMODORO
 
-In this project, we're creating a Pomodoro timer.
+In this project, we're creating a Pomodoro timer.(Using JS)
 
 **Users should be able to:**
 
@@ -14,7 +14,7 @@ In this project, we're creating a Pomodoro timer.
 
 # 02__ECOMM
 
-In this project, we're creating an eCommerce component.
+In this project, we're creating an eCommerce component.(Using React and React Context for state)
 
 **Users should be able to:**
 
