@@ -4,7 +4,7 @@ These Projects are done as part of AdvertJS challenge by (http://adventofjs.com)
 
 # 01\_\_POMODORO
 
-In this project, we're creating a Pomodoro timer.(Using JS)
+In this project, we're creating a Pomodoro timer.(Using Vanilla JavaScript)
 
 **Users should be able to:**
 
@@ -29,7 +29,7 @@ In this project, we're creating an eCommerce component.(Using React and React Co
 
 # 03\_\_PIANO
 
-In this project, we're creating a keyboard.(Using JS)
+In this project, we're creating a keyboard.(Using Vanilla JavaScript)
 
 **Users should be able to:**
 
@@ -38,3 +38,14 @@ In this project, we're creating a keyboard.(Using JS)
   - White keys will change to yellow `#ffd200`
   - Black keys will change to pink `#f40082`
 - When a user clicks on a specific key, it will play an audio clip.
+
+# 04\_\_KeyBoardGame
+
+In this project, we're going to create a computer keyboard. (Using Vanilla JavaScript)
+
+**Users should be able to:**
+
+- See the computer keyboard centered on the page
+- A random letter will start to jiggle.
+- The user should type the same key that's jiggling and it will stop.
+- A new, random key will start jiggling
