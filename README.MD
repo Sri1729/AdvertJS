@@ -1,7 +1,8 @@
 # AdvertJS
+
 These Projects are done as part of AdvertJS challenge by (http://adventofjs.com) in Dec 2021
 
-# 01__POMODORO
+# 01\_\_POMODORO
 
 In this project, we're creating a Pomodoro timer.(Using JS)
 
@@ -12,7 +13,7 @@ In this project, we're creating a Pomodoro timer.(Using JS)
 - Click on the gear icon to change the length (minutes and seconds) of the timer.
 - Once the timer finishes, the ring should change from green to red and an alert message is passed to the browser.
 
-# 02__ECOMM
+# 02\_\_ECOMM
 
 In this project, we're creating an eCommerce component.(Using React and React Context for state)
 
@@ -25,3 +26,15 @@ In this project, we're creating an eCommerce component.(Using React and React Co
   - A user should not be able to mark the quantity as a negative number.
   - If the quantity goes down to 0, the user will have the option to delete or remove the product for their cart entirely.
 - Tax is based on the state of Tennessee sales tax: `0.0975`
+
+# 03\_\_PIANO
+
+In this project, we're creating a keyboard.(Using JS)
+
+**Users should be able to:**
+
+- See the keyboard centered on the page
+- Whenever a user hovers over a specific key it will change colors
+  - White keys will change to yellow `#ffd200`
+  - Black keys will change to pink `#f40082`
+- When a user clicks on a specific key, it will play an audio clip.
